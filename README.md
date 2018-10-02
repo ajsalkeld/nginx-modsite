@@ -1,5 +1,8 @@
-# nginx_modsite
+# nginx-modsite
 
-A bash script to enable, disable, and list Nginx sites, and help reload the config.
+A bash script to enable, disable, list and edit Nginx sites. Helps with reloading the config.
 
-[Read all about it](https://www.ajsalkeld.com/project/2016/07/16/Nginx-modsite-a2ensite-tool-for-nginx-enable-disable-reload/).
+It comes in two flavours: *Ubuntu* and *macOS / Homebrew*.  
+Just checkout your prefered branch.
+
+[Read all about it](https://www.ajsalkeld.com/blog/project/2016/07/16/Nginx-modsite-a2ensite-tool-for-nginx-enable-disable-reload/).
